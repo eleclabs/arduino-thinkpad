@@ -1,0 +1,38 @@
+
+Message chang to english and http port change to 80 from 443
+
+
+13:53:45.868 -> ets Jun  8 20L??????
+13:53:45.868 -> 
+13:53:45.868 -> rst:0x1 (POWERON_RESET),boot:0x1b (*?}MQ}1ASH_BOOT)
+13:53:45.868 -> configsip: 0, SPIWP:0??5
+13:53:45.868 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,c.?????0x00,hd_drv:0x00,wp_drv:0x00
+13:53:45.868 -> mode:DIO, clock div:1
+13:53:45.868 -> load:0x3fff0018,len:4
+13:53:45.868 -> load:0x3fff001c,lYK????j
+13:53:45.868 -> load:0x40078000,len:8896
+13:53:45.868 -> load:0x40080400,len:5816
+13:53:45.902 -> entry 0x400806ac
+13:53:46.818 -> ..
+13:53:47.327 -> WiFi connected
+13:53:47.327 -> IP address: 
+13:53:47.327 -> 192.168.0.12
+13:53:48.346 -> MLX90614 infra-red temperature sensor test
+13:53:54.864 -> IO26 is pressed
+13:53:54.864 -> 0
+13:53:55.883 -> 26.4
+13:53:55.883 ->  *C
+13:53:56.867 -> Connect Web
+13:53:58.802 -> Web content=4894
+13:54:03.827 -> The Temperaute will risk
+13:54:03.827 -> Temperature=26 *C
+13:54:03.827 -> connected fail
+13:54:12.447 -> IO27 is pressed
+13:54:12.447 -> 0
+13:54:13.466 -> 36.5
+13:54:13.466 ->  *C
+13:54:14.485 -> Connect Web
+13:54:16.523 -> Web content=4895
+13:54:21.513 -> The Temperaute will risk
+13:54:21.513 -> Temperature=36 *C
+13:54:21.513 -> connected fail
